@@ -1,7 +1,11 @@
 Material
 
-Clase 1
+Clase 1: Introducción a las redes neuronales
 https://docs.google.com/presentation/d/1vbUsqmVUgfTYTm6gsHHTBzhfAQ0iYT7a
+Clase 2: Modelos generativos
+https://docs.google.com/presentation/d/1QNt0XKvll9VxgndVdygin7_ujdr6DpKA
+Video de la clase 2
+
 
 Colab inicial (imágenes/OpenCV): https://colab.research.google.com/drive/1EaeyhiUIY0_iw6HMdITUc6JcdaTbf_-E
 
@@ -17,7 +21,14 @@ ANN examples in Colab
   5. Training two layers ANN (using PyTorch library)
   https://colab.research.google.com/drive/1Ri5MF1JYfpQwEqP2IrzEkGx-F3u1uZm5 
  
+Clase 1
+
 Colab de ejemplo (deep learning for regression): https://colab.research.google.com/drive/1HlU_2w2ELvC8tzPkJXjtwqdoVJWIQghO
 Colab de ejemplo (clasificador binario): https://colab.research.google.com/drive/1jjS5aDG-GW9y4vkCim6OH_EyLHMXizVT
 Colab de ejemplo (ANN para MNIST con MLP): https://colab.research.google.com/drive/1liK0JOZjuNLpZG5wsfJ6RQq1R5f3iHFi
 Colab de ejemplo 2 (ANN para MNIST 2, con CNN): https://colab.research.google.com/drive/1cdq6ABdnKDgDpfz0RP_Kx0THSniMbz9A
+
+Clase 2
+Colab de ejemplo (GAN para generar una distribución normal): https://colab.research.google.com/drive/1gbTlefMoY6eQDlZXpCU9PVINo55Yb3ly
+Colab de ejemplo (GAN para generar un segmento de recta): https://colab.research.google.com/drive/1FVdtHJK3vertgUVIMlfoM4E7tg0YWuIg
+Colab de ejemplo (GAN simple para MNIST con MLP): https://colab.research.google.com/drive/1FVdtHJK3vertgUVIMlfoM4E7tg0YWuIg
