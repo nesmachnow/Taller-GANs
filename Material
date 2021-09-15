@@ -10,7 +10,10 @@ Video de la clase 2: https://drive.google.com/file/d/1D-1bx2ezeF5tyZ-3uTAQJt9IHm
 Clase 3: Conditional GANs
 https://docs.google.com/presentation/d/1-i1B922S0i7PchNMcVM_UMW7PQ6dhgoA5Fh0mYzImG0
 
-Clase 4: Wasserstein GAN
+Clase 4: Generating Synthetic Tabular Data with GANs
+https://docs.google.com/presentation/d/1RfzbCKTC608nWb7hVNZaiS4ICB8TArYu/edit?usp=sharing&ouid=104711425386598677811&rtpof=true&sd=true
+
+Clase 5: Wasserstein GAN
 https://docs.google.com/presentation/d/1NHEotv6ywlyVAZ95-Pk5w8I57F7LQZOOYzzpnEzx1T8
 
 
@@ -40,10 +43,13 @@ Colab de ejemplo (GAN para generar un segmento de recta): https://colab.research
 Colab de ejemplo (GAN simple para MNIST con MLP): https://colab.research.google.com/drive/1FVdtHJK3vertgUVIMlfoM4E7tg0YWuIg
 
 Clase 3
+Colab de cGAN (cGAN para generar imágenes de ropa de la base de datos Fashion-MNIST): https://colab.research.google.com/drive/1sG_Yfw2_Q38BUxNLjZsk7CLtlIBdCQ-Q
+
+Clase 4
 Tabular data with Vanilla GAN https://colab.research.google.com/drive/1q-IQlHWV3Izp2JBzBiLJ2uf2cauAl1wE
 Tabular data with CTGAN https://colab.research.google.com/drive/19TfjXm2E_mdKDTVL0KwfDHslJ019ViMx
 
-Clase 4
+Clase 5
 Wasserstein GAN: colab.research.google.com/drive/1ilRzKzb5WbzHE_Da2z1Nzd-bAPt9d9R2
 Wasserstein GAN con penalización de gradientes: colab.research.google.com/drive/1Lrk6urqFjX3YEnLkCwipx7_9gz7QBABo
 Wasserstein GAN para modelar una serie temporal financiera: github.com/CasperHogenboom/WGAN_financial_time-series, www.youtube.com/watch?v=ROLugVqjf00
