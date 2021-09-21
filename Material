@@ -57,11 +57,7 @@ Wasserstein GAN con penalización de gradientes: colab.research.google.com/drive
 Wasserstein GAN para modelar una serie temporal financiera: github.com/CasperHogenboom/WGAN_financial_time-series, www.youtube.com/watch?v=ROLugVqjf00
 
 Clase 7:
-Survey sobre GANs para series temporales (Brophy et al, 2021): 
-https://arxiv.org/pdf/2107.11098.pdf
-
-Implementación de TimeGAN en pytorch https://colab.research.google.com/drive/19tZ6nfv4um7PCAFW91mySAaivucM0wNf
+Survey sobre GANs para series temporales (Brophy et al, 2021): https://arxiv.org/pdf/2107.11098.pdf
+Implementación de TimeGAN en pytorch: https://colab.research.google.com/drive/19tZ6nfv4um7PCAFW91mySAaivucM0wNf
 https://github.com/nesmachnow/TimeGAN
-
-Implementación original de TimeGAN en Tensorflow
-https://github.com/jsyoon0823/TimeGAN
+Implementación original de TimeGAN en Tensorflow: https://github.com/jsyoon0823/TimeGAN
