@@ -16,6 +16,8 @@ https://docs.google.com/presentation/d/1RfzbCKTC608nWb7hVNZaiS4ICB8TArYu/edit?us
 Clase 5: Wasserstein GAN
 https://docs.google.com/presentation/d/1NHEotv6ywlyVAZ95-Pk5w8I57F7LQZOOYzzpnEzx1T8
 
+Clase 7: Generación de series temporales: TimeGAN
+https://docs.google.com/presentation/d/1hq5sP50hwV9fCiI3Ctg07dC-8ZH-GfapXACRS6DYwzI/edit#slide=id.gea90084772_0_5
 
 Colab inicial (imágenes/OpenCV): https://colab.research.google.com/drive/1EaeyhiUIY0_iw6HMdITUc6JcdaTbf_-E
 
@@ -54,3 +56,12 @@ Wasserstein GAN: colab.research.google.com/drive/1ilRzKzb5WbzHE_Da2z1Nzd-bAPt9d9
 Wasserstein GAN con penalización de gradientes: colab.research.google.com/drive/1Lrk6urqFjX3YEnLkCwipx7_9gz7QBABo
 Wasserstein GAN para modelar una serie temporal financiera: github.com/CasperHogenboom/WGAN_financial_time-series, www.youtube.com/watch?v=ROLugVqjf00
 
+Clase 7:
+Survey sobre GANs para series temporales (Brophy et al, 2021): 
+https://arxiv.org/pdf/2107.11098.pdf
+
+Implementación de TimeGAN en pytorch https://colab.research.google.com/drive/19tZ6nfv4um7PCAFW91mySAaivucM0wNf
+https://github.com/nesmachnow/TimeGAN
+
+Implementación original de TimeGAN en Tensorflow
+https://github.com/jsyoon0823/TimeGAN
