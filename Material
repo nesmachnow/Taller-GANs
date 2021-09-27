@@ -61,3 +61,6 @@ Survey sobre GANs para series temporales (Brophy et al, 2021): https://arxiv.org
 Implementación de TimeGAN en pytorch: https://colab.research.google.com/drive/19tZ6nfv4um7PCAFW91mySAaivucM0wNf
 https://github.com/nesmachnow/TimeGAN
 Implementación original de TimeGAN en Tensorflow: https://github.com/jsyoon0823/TimeGAN
+
+Clase 7: Generación de datos de consumo eléctrico con GANs
+Slides disponibles en este mismo directorio
